@@ -74,8 +74,9 @@ var heroList = [
 var listenTo = ""; // ID of user who has the bot's attention
 var pickVoiceChannel = ""; // voice channel object where players are picked from
 // accepted text channel id
-var goonGeneralChannel = "187021962357243904";
-
+var goonGeneralChannel = "252461827361996810";
+//252461827361996810
+//187021962357243904
 /************** Functions **************/
 // returns string of availible players in pool
 function listAvailiblePlayers() {
